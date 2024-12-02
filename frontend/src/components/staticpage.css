@@ -1,0 +1,38 @@
+/* .flash-screen {
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+  }
+
+  .flash-images {
+    display: flex;
+    animation: moveRightToLeft 10s linear infinite;
+  }
+
+  .flash-images img {
+    width: 40%;
+    height: auto;
+    object-fit: cover;
+    flex: 0 0 100%;
+  }
+
+  @keyframes moveRightToLeft {
+    0% {
+      transform: translateX(100%);
+    }
+    20% {
+      transform: translateX(0);
+    }
+    40% {
+      transform: translateX(-100%);
+    }
+    60% {
+      transform: translateX(-100%);
+    }
+    80% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  } */

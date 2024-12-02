@@ -1,0 +1,59 @@
+.provider-table-container {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .provider-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .provider-table th,
+  .provider-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .provider-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .provider-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .provider-table tr:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .provider-table input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .provider-table button {
+    margin: 2px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  .provider-table button:hover {
+    background-color: #45a049;
+  }
+  
+  .provider-table button:last-child {
+    background-color: #f44336;
+  }
+  
+  .provider-table button:last-child:hover {
+    background-color: #da190b;
+  }
+  
+  
